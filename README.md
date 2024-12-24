@@ -16,4 +16,4 @@ Heart disease, also known as cardiovascular disease, can lead to heart attacks b
 - **Results 1.xlsx**: Contains processed results and data summaries from the analysis.
 - **Jupyter Notebooks**: Implementation and analysis of various machine learning models.
 
-#Link: https://ieeexplore.ieee.org/document/10481536
+Link: https://ieeexplore.ieee.org/document/10481536
